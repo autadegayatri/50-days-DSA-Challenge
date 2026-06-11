@@ -1,3 +1,9 @@
+// Search in a rotated Sorted array
+// 1) find pivot
+// 2)apply binary search accordingly
+
+
+
 class Day1_BS {
 
     public static void main(String[] args) {
